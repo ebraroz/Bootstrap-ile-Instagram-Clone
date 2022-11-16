@@ -1,1 +1,2 @@
-# Bootstrap-ile-Instagram-Clone
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
